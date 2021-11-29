@@ -39,7 +39,7 @@ AI면접 전에 미리 연습해볼 수 있도록 제작했습니다.
 ### GAME 2: 하노이탑 쌓기
 하노이탑 쌓기 게임의 실행화면입니다.   EASY와 HARD 두 가지 모드 중에서 선택하여 실행할 수 있는데, 모드에 따라 원반을 움직일 수 있는 횟수가 제한되어 있습니다.  EASY모드는 4개의 원반을 18안에 옮겨야 하고, HARD모드는 5개의 원반을 37번 안에 옮겨야 합니다.  게임 실행 중 RESTART를 누르면 하노이탑 쌓기 게임을 다시 시작할 수 있습니다.  계획 능력을 기를 수 있는 게임입니다.  
 
-![스크린샷(189)](https://user-images.githubusercontent.com/49235600/143727846-5fb7f8ec-43a8-413e-9836-7c60e7c34883.png)
+![스크린샷(214)](https://user-images.githubusercontent.com/49235600/143827121-ecf70eee-ec36-4875-86f2-1b9dad85e2b2.png)
 ![스크린샷(193)](https://user-images.githubusercontent.com/49235600/143727842-c6c425cd-d40a-4447-be51-f40e5ca5dc13.png)
 
 ### GAME 3: 색-단어 일치판단
