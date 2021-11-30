@@ -121,7 +121,7 @@ AI면접 전에 미리 연습해볼 수 있도록 제작했습니다.
 
 ![스크린샷(206)](https://user-images.githubusercontent.com/49235600/143730129-1d06f5f9-690d-48b2-bce9-7e56773cc1a3.png)
 ![image](https://user-images.githubusercontent.com/83305042/143971031-dcd71bd1-b97e-4a49-923c-dd764e0402bd.png)
-> 챌린지 완료 화면
+-> 챌린지 완료 화면
 
 <br/>
 
