@@ -14,8 +14,6 @@ AI면접 전에 미리 연습해볼 수 있도록 제작했습니다.
 
 ![스크린샷(181)](https://user-images.githubusercontent.com/49235600/143726388-a6a7b7c3-324b-4c39-b61e-be72c6d48c95.png)
 
-  
-    
 
 ### INFO 버튼
 
@@ -26,7 +24,7 @@ AI면접 전에 미리 연습해볼 수 있도록 제작했습니다.
 ![스크린샷(209)](https://user-images.githubusercontent.com/49235600/143823678-4d5a2482-740c-43a9-aa9c-b777bcddc63a.png)
   
     
-  
+  <br/>
   
 
 ## 1. 연습 모드
@@ -45,7 +43,7 @@ AI면접 전에 미리 연습해볼 수 있도록 제작했습니다.
 
 ![스크린샷(188)](https://user-images.githubusercontent.com/49235600/143727547-4c5a41fb-9c69-48e0-9f53-c4670605e669.png)
 
-
+<br/>
 ---
 ### GAME 1: 도형 위치 기억하기 :back:
 
@@ -101,7 +99,7 @@ AI면접 전에 미리 연습해볼 수 있도록 제작했습니다.
 ![스크린샷(199)](https://user-images.githubusercontent.com/49235600/143729662-4961bc66-5cbb-4b79-9b30-bf606e2154a6.png)
 
 
-
+<br/>
 ---
 
 ## 2. 챌린지 모드
@@ -123,7 +121,7 @@ AI면접 전에 미리 연습해볼 수 있도록 제작했습니다.
 ![image](https://user-images.githubusercontent.com/83305042/143971031-dcd71bd1-b97e-4a49-923c-dd764e0402bd.png)
 > 챌린지 완료 화면
 
-
+<br/>
 ---
 
 ## Our Team
